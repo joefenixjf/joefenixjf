@@ -8,9 +8,9 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bellapegoraro/)](https://github.com/bellapegoraro/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https:https://github.com/joefenixjf)](https://github.com/joefenixjf)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabella-pegoraro-marcondes/)](www.linkedin.com/in/joe-fenix-vieira-248b57b3)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabella-pegoraro-marcondes/)](https://www.linkedin.com/in/joe-fenix-vieira-248b57b3)
 
 ## Languages and Tools
 [![Bellapegoraro GitHub stats](https://github-readme-stats.vercel.app/api/?username=joefenixjf)](https://github.com/joefenixjf/github-readme-stats)
